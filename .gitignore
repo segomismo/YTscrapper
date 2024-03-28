@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#entorno virtual
+venv/
+entorno-YTscrapper/
+
+
 # C extensions
 *.so
 
